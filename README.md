@@ -1,2 +1,2 @@
 # shell-scripts
-welcome to shell cripts
+welcome to shell Scripts
